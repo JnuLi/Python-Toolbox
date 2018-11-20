@@ -1,13 +1,6 @@
 Python工具箱
 =============
 
-.. only:: html
-
-   Python工具箱
-
-
-   目录
-   ----
 
 .. toctree::
    :maxdepth: 2
